@@ -7,3 +7,4 @@ Use Linux as a green hand.
 ```
 sudo apt install git vim
 ```
+* [The Debian package management tools](https://www.debian.org/doc/manuals/debian-faq/ch-pkgtools.en.html)
